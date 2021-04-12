@@ -10,7 +10,7 @@ Page {
     title: qsTr("LabVIEW")
 
     WebEngineView {
-        url: "http://localhost:3582/"
+        url: "http://localhost:8001/"
         anchors.fill: parent
 
         onContextMenuRequested: {
