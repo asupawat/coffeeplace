@@ -63,7 +63,7 @@ ApplicationWindow {
             anchors.fill: parent
 
             ItemDelegate {
-                text: qsTr("Slack")
+                text: qsTr("LabVIEW")
                 font.pixelSize:AppTheme.menuTextSize
                 width: parent.width
                 icon.source: "/images/slack.svg"
