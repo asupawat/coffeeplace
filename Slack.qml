@@ -10,7 +10,7 @@ Page {
     title: qsTr("Slack")
 
     WebEngineView {
-        url: "https://slack.com"
+        url: "http://localhost:3582/"
         anchors.fill: parent
 
         onContextMenuRequested: {
