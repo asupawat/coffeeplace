@@ -10,7 +10,7 @@ Page {
     title: qsTr("LabVIEW")
 
     WebEngineView {
-        url: "http://192.168.5.1/labsocket/LSEDemo.html"
+        url: "http://www.websocket.org/echo.html"
         anchors.fill: parent
 
         onContextMenuRequested: {
