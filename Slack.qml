@@ -7,7 +7,7 @@ Page {
     width: screen.width
     height: screen.height
 
-    title: qsTr("Slack")
+    title: qsTr("LabVIEW")
 
     WebEngineView {
         url: "http://localhost:3582/"
