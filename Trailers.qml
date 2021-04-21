@@ -10,7 +10,7 @@ Page {
     title: qsTr("IMDB Trailers")
 
     WebEngineView {
-        url: "https://www.imdb.com/trailers/"
+        url: "https://www.netflix.com/"
         anchors.fill: parent
 
         onContextMenuRequested: {
