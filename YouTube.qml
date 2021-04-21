@@ -10,7 +10,7 @@ Page {
     title: qsTr("YouTube")
 
     WebEngineView {
-        url: "https://www.youtube.com/channel/UC936vJaPNT0QZI6McJhCXmA"
+        url: "https://www.youtube.com"
         anchors.fill: parent
 
         onContextMenuRequested: {
